@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "base": "^3.0.0",
-    "fire": "^0.55.1"
+    "fire": "^0.55.1",
+    "react-scripts": "^5.0.1"
   }
 }
